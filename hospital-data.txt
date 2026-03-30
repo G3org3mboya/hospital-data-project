@@ -1,0 +1,7 @@
+PATIENTS
+George,19,3000.0,Checkup
+Shem,20,4500.0,X-Ray
+Lily,25,2000.0,None
+DOCTORS
+Dr. Kim,42,Neurology,None
+Dr. Oduor,55,Cardiology,Heart Surgery
